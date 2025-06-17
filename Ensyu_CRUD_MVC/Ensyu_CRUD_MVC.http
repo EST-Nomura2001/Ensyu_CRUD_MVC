@@ -1,0 +1,6 @@
+@Ensyu_CRUD_MVC_HostAddress = http://localhost:5195
+
+GET {{Ensyu_CRUD_MVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
