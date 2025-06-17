@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "Ensyu_CRUD_MVC.Controllers.ToDosController",
+    "Method": "Get",
+    "RelativePath": "api/ToDos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ensyu_CRUD_MVC.Controllers.ToDosController",
+    "Method": "Post",
+    "RelativePath": "api/ToDos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "toDo",
+        "Type": "Ensyu_CRUD_MVC.Models.ToDo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ensyu_CRUD_MVC.Controllers.ToDosController",
+    "Method": "Delete",
+    "RelativePath": "api/ToDos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ensyu_CRUD_MVC.Controllers.ToDosController",
+    "Method": "Put",
+    "RelativePath": "api/ToDos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "toDo",
+        "Type": "Ensyu_CRUD_MVC.Models.ToDo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

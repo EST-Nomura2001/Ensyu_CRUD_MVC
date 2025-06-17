@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ensyu_CRUD_MVC.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ensyu_CRUD_MVC.props" />
+</Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ensyu_CRUD_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c848d76169f48807121557a83ce2c81ecfb4e92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ensyu_CRUD_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ensyu_CRUD_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
